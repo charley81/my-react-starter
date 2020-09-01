@@ -7,9 +7,12 @@ Create React apps with no build configuration.
 ```sh
 git clone
 cd my-react-starter
+rm -rf .git
 npm install
 npm run dev
 ```
+
+> clone the repo. Change directory into the my-react-starter folder. Remove the current .git file so that you can git init your own. install the npm packages. Run the dev script to start the app
 
 Then open [http://localhost:1234/](http://localhost:1234/) to see your app.<br>
 When you’re ready to deploy to production, create a minified bundle with `npm run build`.
