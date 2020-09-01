@@ -41,7 +41,7 @@ No configuration or complicated folder structures, only the files you need to bu
 Once the installation is done, you can open your project folder:
 
 ```sh
-cd my-app
+cd my-react-starter
 ```
 
 Inside the newly created project, you can run some built-in commands:
@@ -79,7 +79,7 @@ Your app is ready to be deployed.
 
 Your environment will have everything you need to build a modern single-page React app:
 
-- React, JSX, ES6.
+- React, JSX, ES6, Parcel, Babel, Eslint Config, Prettier Config, Emotion
 - Language extras beyond ES6 like the object spread operator.
 - Autoprefixed CSS, so you don’t need `-webkit-` or other prefixes.
 - A fast interactive unit test runner with built-in support for coverage reporting.
