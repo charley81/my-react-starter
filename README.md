@@ -19,7 +19,7 @@ When you’re ready to deploy to production, create a minified bundle with `npm 
 You **don’t** need to install or configure tools like parcel or Babel.<br>
 They are preconfigured so that you can focus on the code.
 
-It will create a directory called `my-app` inside the current folder.<br>
+It will create a directory called `my-react-starter` inside the current folder.<br>
 Inside that directory, it will generate the initial project structure and install the transitive dependencies:
 
 ```
