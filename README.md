@@ -118,10 +118,6 @@ If you prefer configuring the build yourself, [follow this guide](https://reactj
 Looking for something similar, but for React Native?<br>
 Check out [Expo CLI](https://github.com/expo/expo-cli).
 
-## Credits
-
-Thanks to [Netlify](https://www.netlify.com/) for hosting our documentation.
-
 ## License
 
 my-react-starter is open source software [licensed as MIT]
