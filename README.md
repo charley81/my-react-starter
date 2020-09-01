@@ -7,6 +7,7 @@ Create React apps with no build configuration.
 ```sh
 git clone
 cd my-react-starter
+npm install
 npm run dev
 ```
 
